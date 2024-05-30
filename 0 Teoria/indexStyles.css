@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+h6{
+    color: blueviolet;
+}
+div{
+    color: chocolate;
+}
+p{
+    color: blue;
+}
+.segundodiv{
+    color: rgb(210, 30, 30);    
+}
+.nuevo{
+    color: aqua;
+}
+.padre{
+    background: coral;
+    height: 300px;
+    width: 300px;
+    padding: 50px;
+}
+.hijo{
+    height: 100px;
+    width: 100px;
+    background: black;
+}
+p span{
+    color: rgb(14, 119, 45);
+}
